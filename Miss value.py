@@ -55,4 +55,3 @@ uchwyt.write("Odchylenie standardowe z próby: %s" % o)
 uchwyt.close()
 
 input('Zamknij...')
-input('Koniec..')
